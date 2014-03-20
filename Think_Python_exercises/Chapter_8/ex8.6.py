@@ -11,7 +11,7 @@ def count(s, l):
             counter += 1
         i += 1
     print counter
-    
+"""    
     
 def find(word, letter, index):
     while index < len(word):
@@ -20,6 +20,5 @@ def find(word, letter, index):
         index = index + 1
     return -1
     
-find('lalapalooza', 'l', 3)
+# find('lalapalooza', 'l', 3)
 
-"""
