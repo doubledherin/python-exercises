@@ -7,3 +7,8 @@ help me keep track of my progress. Hopefully someday I'll look back at it and th
 doing this.
 
 Hopefully.
+
+Most of the exercises are from Think Python, and are in the directory of that name, although I pulled out exercises that I thought were particularly fun/interesting, to make them easier to see.
+
+"Switchflipper" is code I wrote for a challenge given to me by a mentor, Ava St. John. Thanks, Ava!
+

@@ -37,8 +37,7 @@ def wordlist_e_crawler():
     for word in words:
         if word.count("e") == 0:
             newlist += [word.strip()]
-            
-    print newlist
+
     print "%d percent of the words in the wordlist have no 'e'." % (float(len(newlist)) / len(words) * 100)
 
 
