@@ -1,0 +1,19 @@
+def first(word):
+    return word[0]
+def last(word):
+    return word[-1]
+def middle(word):
+    return word[1:-1]
+    
+print first("hello")
+print middle("hello")
+print last("hello")
+print first("an")
+print middle("an")
+print last("an")
+print first("a")
+print middle("a")
+print last("a")
+print first("")
+print middle("")
+print last("")
