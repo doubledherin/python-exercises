@@ -1,14 +1,11 @@
-===============================
-Wendy Dherin's Python Exercises
-===============================
+======================================
+Exercises from "Think Python" and More
+======================================
 
-I've decided to create a repository of all the exercises I've been doing to hone my Python skills. This will
-help me keep track of my progress. Hopefully someday I'll look back at it and think I was cute and awesome for
-doing this.
+A chapter-by-chapter collection of my work on the exercises in Think Python (How to Think Like a Computer Scientist), as well as a few other exercises I've done, for good measure.
 
-Hopefully.
+Other files:
 
-Most of the exercises are from Think Python, and are in the directory of that name, although I pulled out exercises that I thought were particularly fun/interesting, to make them easier to see.
-
-"Switchflipper" is code I wrote for a challenge given to me by a mentor, Ava St. John. Thanks, Ava!
-
+* "Switchflipper" is code I wrote for a challenge given to me by a mentor, Ava St. John. (Thanks, Ava!)
+* At some point I got fascinated with [Kaprekar numbers](http://en.wikipedia.org/wiki/Kaprekar_number) and wrote a program to determine whether a number is one.
+* Watching [Numberphile](www.numberphile.com) one day, I learned about the [Monty Hall Problem](http://en.wikipedia.org/wiki/Monty_Hall_problem) and decided to code it up.
